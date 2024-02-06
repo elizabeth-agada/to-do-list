@@ -2,12 +2,17 @@
 * {
     box-sizing: border-box;
     
+    
   }
   
   /* Remove margins and padding from the list */
   ul {
     margin: 0;
     padding: 0;
+  }
+
+  p {
+    font-size: x-large;
   }
   
   /* Style the list items */
